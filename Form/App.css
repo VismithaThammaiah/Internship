@@ -1,0 +1,59 @@
+.id{
+  text-align: center;
+  margin-top: 10%;
+  display:block;
+
+}
+.id1{
+display:block;
+padding-bottom: 10px;
+
+}
+.id2{
+display:block;
+padding-bottom: 10px;
+}
+.id3{
+display:block;
+padding-bottom: 10px;
+}
+.id4{
+display:block;
+padding-bottom: 10px;
+}
+.id5{
+display:block;
+padding-bottom: 10px;
+}
+.id6{
+display:block;
+padding-bottom: 10px;
+}
+.id7{
+	
+display:block;
+padding-bottom: 10px;
+}
+.options{
+	text-align: left;
+	width:100px;
+}
+.gen{
+	text-align: left;
+	width:100px;
+}
+.signup{
+	max-width:500px;
+	margin:auto;
+	border:2px solid;
+	border-color: blue;
+	padding:2rem;
+}
+label{
+	display:block;
+	text-align: left;
+}
+input{
+	display:block;
+	text-align:left;
+}
