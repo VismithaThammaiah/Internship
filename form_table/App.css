@@ -1,0 +1,57 @@
+.box {
+  position: relative;
+  margin:60px auto;
+  max-width: 700px;
+  background: lightgrey;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+
+
+.abc{
+  text-align: center;
+  /*width:500px;*/
+  margin-top: 50px;
+  margin-bottom: 40px; 
+}
+
+.input-group{
+	margin: 10px;
+  width: 96%;
+
+}
+
+.form-horizontal{
+
+  width: 600px;
+  margin-left: 50vmin;
+  border-style: outset;
+  border-color: palevioletred;
+  background-color: white;
+}
+
+.pqr{
+  padding-left: 250px;
+  margin-top: 30px; 
+  margin-bottom: 30px;
+}
+
+.nav {
+  overflow: hidden;
+  background-color: palevioletred;
+}
+.nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
